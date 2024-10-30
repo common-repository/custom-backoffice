@@ -1,0 +1,14 @@
+/** 
+This stylseheet contains styling to go with part 6 of a tutorial series for wptutsplus on customizing the WordPress amdin. 
+It is part of a plugin. **/
+
+.backoffice .postbox {
+margin-bottom: 20px;
+padding: 2em !important;
+line-height: 1;
+}
+
+.backoffice h2 {
+text-align: center;
+}
+#first_section, #second_section,#third_section{border-bottom:1px solid #eee}

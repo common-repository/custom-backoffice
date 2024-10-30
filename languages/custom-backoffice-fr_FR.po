@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Backoffice v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-07 18:33+0100\n"
+"PO-Revision-Date: 2015-01-15 15:33:23+0000\n"
+"Last-Translator: \n"
+"Language-Team: yuyazz <contact@copier-coller.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: C:/Users/yuya/Desktop/custom-backoffice\n"
+"X-Textdomain-Support: yes"
+
+#: custom-backoffice.php:306
+#@ custom-backoffice
+msgid "Categories"
+msgstr "Categories"
+
+#: custom-backoffice.php:311
+#@ custom-backoffice
+msgid "Pages"
+msgstr ""
+
+#: options.php:3
+#@ custom-backoffice
+msgid "Custom backoffice Options"
+msgstr ""
+
+#: options.php:11
+#@ custom-backoffice
+msgid "Enter a URL or upload an image to use for your login logo"
+msgstr "Entrez un url ou téléchargez une image pour votre logo de connexion"
+
+#: options.php:15
+#: options.php:41
+#: options.php:94
+#: options.php:114
+#@ custom-backoffice
+msgid "Upload Image"
+msgstr "Telechargez une image"
+
+#: options.php:20
+#@ custom-backoffice
+msgid "Enter the URL of you would like the login logo to point to."
+msgstr "Entrez l'url sur laquelle vous souhaitez faire pointer votre logo"
+
+#: options.php:20
+#@ custom-backoffice
+msgid "By default it points to"
+msgstr "Par défaut le lien pointe vers"
+
+#: options.php:24
+#@ custom-backoffice
+msgid "Enter the text to display when you hover your mouse over the login logo."
+msgstr "Entrez le texte à afficher quand vous passez votre souris sur le logo"
+
+#: options.php:24
+#@ custom-backoffice
+msgid "By default it says \"Powered by WordPress\"."
+msgstr "Par défaut il est écrit \"Propulsé par WordPress\"."
+
+#: options.php:28
+#@ custom-backoffice
+msgid "Enter custom CSS for the login screen."
+msgstr "Entrez votre css pour l'interface de connexion"
+
+#: options.php:28
+#@ custom-backoffice
+msgid "If you are not familiar with CSS, you can leave this blank."
+msgstr "Si vous n'etes pas familier avec le css, laissez le champ vide"
+
+#: options.php:30
+#@ custom-backoffice
+msgid "CSS options can be found by clicking here."
+msgstr "les options css peuvent etre trouvées ici"
+
+#: options.php:37
+#@ custom-backoffice
+msgid "Enter a URL or upload an image for your login screen background"
+msgstr "Entrez un url ou telechargez une image pour le fond d'écran de l'interface de connexion"
+
+#: options.php:47
+#@ custom-backoffice
+msgid "Enter the text you would like to display in the dashboard footer."
+msgstr "Entrez le texte que vous souhaitez afficher dans le footer du dashboard"
+
+#: options.php:47
+#@ custom-backoffice
+msgid "By default it says \"Thank you for creating with WordPress\"."
+msgstr "Par défaut il est écrit  \"Thank you for creating with WordPress\"."
+
+#: options.php:53
+#@ custom-backoffice
+msgid "Click yes if you want to remove all the widgets on dashboard,leave it blank if you want to keep it"
+msgstr "Cliquez sur oui si vous voulez supprimer tous les widgets du panneau d'adminiatration, laissez décoché si vous souhaitez les garder"
+
+#: options.php:59
+#@ custom-backoffice
+msgid "Click yes if you want to remove all the wordpress icon on adminbar,leave it blank if you want to keep it"
+msgstr "Cliquez sur oui si vous souhaitez supprimer toutes les icones de la barre d'administration"
+
+#: options.php:68
+#@ custom-backoffice
+msgid "Click yes if you want to remove update nag"
+msgstr "Cliquez sur oui si vous souhaitez supprimer les avertissements de mises à jour"
+
+#: options.php:73
+#@ custom-backoffice
+msgid "Replace Appearence menu tab by Menu"
+msgstr "Remplacer le menu Apparence par le sous menu Menu"
+
+#: options.php:78
+#@ custom-backoffice
+msgid "Click yes if you want to put a dynamic copyright in the footer, then use the shortcode [copyright] wherever in your website"
+msgstr "Cliquez sur oui si vous souhaitez activer un copyright dynamique sur votre site.Copier coller le shortcode copyrigth] n'importe ou sur votre site"
+
+#: options.php:86
+#@ custom-backoffice
+msgid "Click yes if you want to display image/logo widget on your board"
+msgstr "Cliquez sur oui si vous souhaitez afficher un widget pour une image dans votre tableau de bord"
+
+#: options.php:90
+#@ custom-backoffice
+msgid "Enter a URL or upload an image to use for your imge/logo widget"
+msgstr "Entrez un url ou telechargez une image pour votre widget image /logo"
+
+#: options.php:97
+#@ custom-backoffice
+msgid "Enter the width in pixel(just the number!!)of your image"
+msgstr "Entrez la largeur en pixel(seulement les chiffres)"
+
+#: options.php:106
+#@ custom-backoffice
+msgid "Click yes if you want to display doc widget on your board"
+msgstr "Cliquez sur oui si vous souhaitez afficher un widget pour telecharger vos document"
+
+#: options.php:110
+#@ custom-backoffice
+msgid "Enter a URL or upload your document"
+msgstr "Entrez un url ou telechargez votre document"
+
+#: options.php:120
+#@ custom-backoffice
+msgid "Enter your text"
+msgstr "Entrez votre texte"
+
+#: options.php:124
+#@ custom-backoffice
+msgid "Enter your doc title"
+msgstr "Entrez le titre de votre document"
+
+#: options.php:133
+#@ custom-backoffice
+msgid "Click yes if you want to have a sitemap widget on your board"
+msgstr "Cliquez sur oui si vous souhaitez un widget sitemap sur votre panneau d'administration"
+
+#: options.php:137
+#@ custom-backoffice
+msgid "Click on the item you want to display"
+msgstr "Cliquez sur l'element que vous souhaitez afficher"
+
+#: options.php:157
+#@ custom-backoffice
+msgid "How your login logo image looks:"
+msgstr "Voici le rendu de votre logo"
+
+#: options.php:176
+#@ custom-backoffice
+msgid "If this plugin has helped you out at all, please consider making a donation to encourage future updates."
+msgstr "Si ce plugin vous a aidé, n'hésitez pas à faire un don"
+
+#: options.php:176
+#@ custom-backoffice
+msgid "Your generosity is appreciated!"
+msgstr "Votre générosité est appreciée"
+
+#: options.php:180
+#@ custom-backoffice
+msgid "To report any issues with "
+msgstr "Pour signaler tout bug sur"
+
+#: options.php:180
+#@ custom-backoffice
+msgid "this plugin"
+msgstr "ce plugin"
+
+#: options.php:180
+#@ custom-backoffice
+msgid ", please visit the"
+msgstr ", veuillez visiter la"
+
+#: options.php:180
+#@ custom-backoffice
+msgid "support page on WordPress.org"
+msgstr "page de support sur Wordpress.org"
+
+#: options.php:181
+#@ custom-backoffice
+msgid "For all other WordPress help, please check out some great tutorials at"
+msgstr "Pour toute autre demande concernant wordpress, veuillez consulter les tutoriels sur"
+
+#: options.php:181
+#@ custom-backoffice
+msgid "copier-coller.com"
+msgstr ""
+
+#: custom-backoffice.php:297
+#@ custom-backoffice
+msgid "Hello! to visit a page, category or post, just click on it"
+msgstr "Bonjour!Pour modifier une page, une categorie ou un article, cliquez dessus"
+
+#: custom-backoffice.php:316
+#@ custom-backoffice
+msgid "Posts"
+msgstr "Articles"
+
+#: custom-backoffice.php:347
+#@ custom-backoffice
+msgid "Choose a post"
+msgstr "Choisissez un article"
+
+#: options.php:139
+#@ custom-backoffice
+msgid "Page"
+msgstr ""
+
+#: options.php:140
+#@ custom-backoffice
+msgid "Category"
+msgstr "Categorie"
+
+#: options.php:141
+#@ custom-backoffice
+msgid "Post"
+msgstr "Article"
+
